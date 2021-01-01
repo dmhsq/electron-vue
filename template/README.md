@@ -1,4 +1,4 @@
-# electron-vue-dmhsq
+# electron-vue
 如果您只是想打包vue项目成exe 
 ```
 npm run builds
