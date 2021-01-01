@@ -7,6 +7,9 @@ npm run builds
 npm run build
 ```
 [github地址](https://github.com/dmhsq/electron-vue-dmhsq)
+
+electron中的 dist和src为测试 不用理会
+
 ## 安装依赖
 ```
 npm install
